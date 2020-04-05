@@ -12,7 +12,6 @@ class SudokuPreprocess:
     def sud_wrapping(self,image):
 
         #image = cv.resize(image,(300,300))
-        print("1")
         ratio = image.shape[0]/300.0
         orig = image.copy()
         image = imutils.resize(image , height = 300)
