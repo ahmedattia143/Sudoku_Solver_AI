@@ -37,6 +37,8 @@ finding conours to converting the puzzle image to a 2d array.
 
 - test_images : images of sudoku puzzle to test on the program . 
 
+## References : 
+https://www.pyimagesearch.com/2014/04/21/building-pokedex-python-finding-game-boy-screen-step-4-6/?fbclid=IwAR1IrKuz2lB0W5v7-cBUjXGFxwUG_7Axs236gA5F6YQWmaB61ImhF34J1lw
 
 
 
