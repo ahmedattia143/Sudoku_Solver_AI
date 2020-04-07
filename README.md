@@ -1,6 +1,6 @@
-# Sudoku Solver using artifidial intelligence 
+# Sudoku Solver using artificial intelligence 
 ## Inspiration 
-Being a fan of the famous sudoku game, I had the idea to create a program that solves a sudoku puzzle taking as input the puzzle image
+Being a fan of the famous sudoku game, I had the idea to create a program that solves a sudoku puzzle taking as input the puzzle image.
 
 
 ## Dependencies
